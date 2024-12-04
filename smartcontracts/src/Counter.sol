@@ -29,3 +29,4 @@ contract Counter {
         emit YourBalance(msg.sender, msg.sender.balance);
     }
 }
+'
